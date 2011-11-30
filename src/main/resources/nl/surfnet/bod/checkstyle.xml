@@ -57,7 +57,9 @@
       <property name="severity" value="ignore"/>
       <metadata name="net.sf.eclipsecs.core.lastEnabledSeverity" value="inherit"/>
     </module>
-    <module name="RightCurly"/>
+    <module name="RightCurly">
+      <property name="option" value="alone"/>
+    </module>
     <module name="AvoidInlineConditionals">
       <property name="severity" value="ignore"/>
       <metadata name="net.sf.eclipsecs.core.lastEnabledSeverity" value="inherit"/>
