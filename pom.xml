@@ -8,9 +8,9 @@
     <packaging>jar</packaging>
 
     <scm>
-        <developerConnection>scm:git:gitolite@atlas.dlp.surfnet.nl:bod-build-tools.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:BandwidthOnDemand/bod-build-tools.git</developerConnection>
     </scm>
-   
+
     <distributionManagement>
        <repository>
            <id>surfnet-releases</id>
